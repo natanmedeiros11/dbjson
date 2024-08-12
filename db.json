@@ -1,0 +1,107 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camisa Vasco da Gama",
+        "description": "Em comemoração aos 120 anos de história do Gigante da Colina, chegou a nova Camisa do Vasco III 2018 Diadora. Moderna e diferenciada, a terceira Camisa do Vasco da Gama valoriza a sua torcida.",
+        "price": 99.99,
+        "image": "https://static.netshoes.com.br/produtos/camisa-vasco-iii-2018-sn-torcedor-diadora-masculina/06/043-9594-006/043-9594-006_zoom1.jpg?ts=1692121710&",
+        "specifications": [
+          "Nome: Camisa Vasco III 2018 s/n° - Torcedor Diadora Masculina",
+          "Gênero: Masculino",
+          "Indicado para: Dia a Dia",
+          "Clube: Nacional",
+          "Time: Vasco RJ",
+          "Gola: Gola V",
+          "Material: Poliéster",
+          "Tipo: Torcedor",
+          "Personalização: Permite Personalização",
+          "Manga: Manga Curta",
+          "Escudo: Patch",
+          "Patrocínio: Sem patrocínio",
+          "Número: Sem número",
+          "Composição: 100% Poliéster",
+          "Importante: Personalização disponível apenas para produtos vendidos e entregues por Netshoes",
+          "Garantia do Fabricante: Contra defeito de fabricação",
+          "Origem: Nacional",
+          "Marca: Diadora"
+        ],
+        "reviews": [
+          {
+            "user": "Eduardo",
+            "date": "7 de jan. de 2020",
+            "text": "A camisa é linda e muito confortável. Recomendo este produto!"
+          },
+          {
+            "user": "Elaine",
+            "date": "4 de jan. de 2020",
+            "text": "Camisa muito bonita, feita com material de boa qualidade, suave na pele e com excelentes acabamentos. O tamanho veio exatamente como eu esperava. Gostei muito! Recomendo este produto!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Camisa Kappa Vasco Goleiro III 2021",
+        "description": "Batizado de “Timoneiro”, o uniforme de goleiro do Gigante da Colina para 2021 homenageia as raízes do clube ao recordar a história da primeira guarnição da baleeira Vascaína de 1900. O manto tem como principais características uma aplicação da Cruz de Cristo na nuca, o escudo que lembra os primeiros brasões usados pelo Vasco, além de uma faixa invertida na região frontal que define a bravura que o timoneiro tem ao governar, tripular e motivar os seus navegadores.",
+        "price": 99.99,
+        "image": "https://static.netshoes.com.br/produtos/camisa-vasco-iii-2122-sn-torcedor-kappa-masculina/06/D24-3377-006/D24-3377-006_zoom1.jpg?ts=1695353442&",
+        "specifications": [
+          "Nome: Camisa Kappa Vasco Goleiro III 2021",
+          "Gênero: Masculino",
+          "Indicado para: Dia a Dia",
+          "Marca: Kappa"
+        ],
+        "reviews": [
+          {
+            "user": "Miguel",
+            "date": "26 de dez. de 2023",
+            "text": "Camisa ótima, bom tamanho e muito bonita. Recomendo!"
+          },
+          {
+            "user": "André",
+            "date": "14 de dez. de 2023",
+            "text": "VASCO Recomendo este produto!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Camisa Fluminense",
+        "description": "Ontem, hoje e até a eternidade! A paixão pelo Tricolor Carioca está nos detalhes da Camisa Fluminense I 23/24 s/n° Torcedor Umbro Masculina. Perfeita para apoiar o Fluzão durante os 90 minutos, essa camisa Fluminense masculina apresenta as tradicionais cores grená, verde e listras brancas, além de patch de campeão mundial da Copa Rio de 1952. Essa nova armadura consolida o encontro entre o passado e presente, fortalecendo a história em busca de novas conquistas. Compre já!",
+        "price": 99.99,
+        "image": "https://static.netshoes.com.br/produtos/camisa-fluminense-i-2324-sn-torcedor-umbro-masculina/10/2IA-4991-410/2IA-4991-410_zoom1.jpg?ts=1695700162&",
+        "specifications": [
+          "Nome: Camisa Fluminense I 23/24 s/n° Torcedor Umbro Masculina",
+          "Gênero: Masculino",
+          "Indicado para: Dia a Dia",
+          "Clube: Nacional",
+          "Time: Fluminense RJ",
+          "Gola: Gola Careca",
+          "Material: Poliéster",
+          "Tipo: Torcedor",
+          "Personalização: Permite Personalização",
+          "Manga: Manga Curta",
+          "Escudo: Bordado",
+          "Patrocínio: Com patrocínio",
+          "Número: Sem número",
+          "Composição: 100% Poliéster",
+          "Garantia do Fabricante: Contra defeito de fabricação",
+          "Origem: Nacional",
+          "Marca: Umbro"
+        ],
+        "reviews": [
+          {
+            "user": "Andrea",
+            "date": "21 de dez. de 2023",
+            "text": "Sou torcedora do Fluminense. Só posso dizer coisas positivas. Amei a camisa Recomendo este produto!"
+          },
+          {
+            "user": "Rafael",
+            "date": "21 de dez. de 2023",
+            "text": "Camisa muito justa. Sempre comprei tamanho M, mesmo da Umbro, mas a desse ano tem dimensões menores Recomendo este produto!"
+          }
+        ]
+      }
+    ]
+  }
+  
